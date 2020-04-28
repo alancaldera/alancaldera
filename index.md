@@ -1,6 +1,6 @@
 ## About Me
 
-<img align="left" width="40%" height="40%" src="me_2.jpg" style="margin-right: 20px; margin-bottom: 200px"/>
+<img align="left" width="40%" height="40%" src="me_2.jpg" style="margin-right: 20px"/>
 
 #### _Welcome! Hola! Bonjour! こんにちは!_
 
