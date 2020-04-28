@@ -2,9 +2,9 @@
 
 <img align="left" width="40%" height="40%" src="me_2.jpg"> 
 
-### &nbsp;&nbsp;&nbsp;&nbsp; **Welcome**
+### **Welcome**
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am a rising junior Computer Science major at &nbsp;&nbsp;&nbsp;&nbsp;Cornell University pursuing minors in Operations &nbsp;&nbsp;&nbsp;&nbsp;Research and Business. On campus, I serve as the &nbsp;&nbsp;&nbsp;&nbsp;Community Outreach Chair at [SHPE](https://www.shpe.cornell.edu/index.html) and am the &nbsp;&nbsp;&nbsp;&nbsp;President Elect for the upcoming 2020 - 2021 &nbsp;&nbsp;&nbsp;&nbsp;academic year. I am an active Fabrication team &nbsp;&nbsp;&nbsp;&nbsp;member of Cornell University's [Steel Bridge](https://steelbridge.engineering.cornell.edu/) project &nbsp;&nbsp;&nbsp;&nbsp;team, where I use machining tools to fabricate &nbsp;&nbsp;&nbsp;&nbsp;different steel components of our bridge for our yearly &nbsp;&nbsp;&nbsp;&nbsp;competiton.
+I am a rising junior Computer Science major at Cornell University pursuing minors in Operations Research and Business. On campus, I serve as the Community Outreach Chair at [SHPE](https://www.shpe.cornell.edu/index.html) and am the President Elect for the upcoming 2020 - 2021 academic year. I am an active Fabrication team member of Cornell University's [Steel Bridge](https://steelbridge.engineering.cornell.edu/) project team, where I use machining tools to fabricate different steel components of our bridge for our yearly competiton.
 
 ## Experience
 
