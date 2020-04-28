@@ -6,7 +6,9 @@
 
 I am a rising junior Computer Science major at Cornell University pursuing minors in Operations Research and Business. On campus, I serve as the Community Outreach Chair at [SHPE](https://www.shpe.cornell.edu/index.html) and am the President Elect for the upcoming 2020 - 2021 academic year. I am an active Fabrication team member of Cornell University's [Steel Bridge](https://steelbridge.engineering.cornell.edu/) project team, where I use machining tools to fabricate different steel components of our bridge for our yearly competiton.
 
-## Skills
+## Experience
+
+Last summer, I interned at [Technical Associates](https://www.technicalassociates.com/) as an engineering quality assurance intern. I was tasked with analyzing complex piping systems throughout our client's manufacturing plants and documenting the layout using P&ID (Piping and Instrumentation Diagrams) format within AutoCAD.
 
 
 
@@ -44,6 +46,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alancaldera/alancaldera/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to reach out with any questions you have
+[@arc296@cornell.edu](mailto:arc296@cornell.edu)
