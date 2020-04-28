@@ -2,6 +2,15 @@
 
 <img src="me_2.jpg" width=300>
 
+![](me_2.jpg | width = 200)
+
+![test image size](me_2.jpg){:height="100px" width="100px"}
+![test image size](me_2.jpg){:class="img-responsive"}
+![test image size](me_2.jpg){:height="50%" width="50%"}
+
+
+Format: ![Alt Text](url)
+
 You can use the [editor on GitHub](https://github.com/alancaldera/alancaldera/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
