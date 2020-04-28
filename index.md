@@ -1,6 +1,6 @@
 ## About Me
 
-![test image size](me_2.jpg){:height="30%" width="30%"}
+![test image size](me_2.jpg){:height="40%" width="40%"}
 
 
 
