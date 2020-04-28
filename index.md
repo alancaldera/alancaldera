@@ -2,6 +2,8 @@
 
 ![test image size](me_2.jpg){:height="40%" width="40%"}
 
+<img align="right" src="me_2.jpg">
+
 
 
 Format: ![Alt Text](url)
