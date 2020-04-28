@@ -17,4 +17,4 @@ I
 ### Contact
 
 Feel free to reach out with any questions you have at
-[arc296@cornell.edu](mailto:arc296@cornell.edu) or connect with me on [LinkedIn](www.linkedin.com/in/alancaldera2022).
+[arc296@cornell.edu](mailto:arc296@cornell.edu) or connect with me on [LinkedIn]((https://www.linkedin.com/in/alancaldera2022).
