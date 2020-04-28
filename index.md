@@ -1,6 +1,6 @@
 ## About Me
 
-<img align="left" width="40%" height="40%" src="me_2.jpg" style="margin-right: 20px; margin-bottom: 10px "/>
+<img align="left" width="40%" height="40%" src="me_2.jpg" style="margin-right: 20px"/>
 
 #### _Welcome! Hola! Bonjour! こんにちは!_
 
@@ -10,7 +10,9 @@ I am a rising junior Computer Science major at Cornell University pursuing minor
 
 Last summer, I interned at [Technical Associates](https://www.technicalassociates.com/) as an engineering quality assurance intern. I was tasked with analyzing complex piping systems throughout our client's manufacturing plants and documenting the layout using P&ID (Piping and Instrumentation Diagrams) format within AutoCAD.
 
+## Campus Involvement
 
+I                                
 
 Format: ![Alt Text](url)
 
@@ -50,3 +52,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Feel free to reach out with any questions you have at
 [arc296@cornell.edu](mailto:arc296@cornell.edu)
+
+[LinkedIn](www.linkedin.com/in/alancaldera2022)
