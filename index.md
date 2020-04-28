@@ -1,7 +1,6 @@
 ## About Me
 
-<img align="left" width="40%" height="40%" src="me_2.jpg">
-<img style="float: left; padding-right: 5000px;"> 
+<img align="left" width="40%" height="40%" src="me_2.jpg"> 
 
 ## **Welcome**
 
