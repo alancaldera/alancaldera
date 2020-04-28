@@ -4,12 +4,4 @@ description: Personal Website
 
 theme: jekyll-theme-slate
 
-footer_links:
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
-
-github:
-  is_project_page: false
-
+locale: en_US
