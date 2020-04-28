@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![me_2](https://user-images.githubusercontent.com/64219900/80439936-a40dc980-88d5-11ea-8bfa-d1cfefe60531.jpg)
+![me_2](https://user-images.githubusercontent.com/64219900/80439936-a40dc980-88d5-11ea-8bfa-d1cfefe60531.jpg) width = 200
 
 You can use the [editor on GitHub](https://github.com/alancaldera/alancaldera/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
