@@ -20,7 +20,7 @@ I serve as the Resident Advisor (RA) at the Latino Living Center dorm on North C
 
 Lastly, I am an active brother in Cornell's chapter of Alpha Phi Omega, where I participate in social and volunteering events that aid the metro Ithaca area.
 
-### Contact
+## Contact
 
 Feel free to reach out with any questions you have at
 [arc296@cornell.edu](mailto:arc296@cornell.edu) or connect with me on [LinkedIn]((https://www.linkedin.com/in/alancaldera2022).
