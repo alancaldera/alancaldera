@@ -8,11 +8,17 @@ I am a rising junior Computer Science major at Cornell University pursuing minor
 
 ## Experience
 
-Last summer, I interned at [Technical Associates](https://www.technicalassociates.com/) as an Engineering Quality Assurance Intern. I was tasked with analyzing complex piping systems throughout our client's manufacturing plants and documenting the layout using P&ID (Piping and Instrumentation Diagrams) format within AutoCAD.
+Last summer, I worked at [Technical Associates](https://www.technicalassociates.com/) as an Engineering Quality Assurance Intern. I was tasked with analyzing complex piping systems throughout our client's manufacturing plants and documenting the layout using P&ID (Piping and Instrumentation Diagrams) format within AutoCAD.
+
+On my own account, I enjoy working with data using Python, R, and SQL to create databases and visualization tools to identify trends and make insightful interpretations of the data. Past projects include using AAMC [data](https://www.aamc.org/data-reports) to explore how race affects medical school admissions and mapping data about Earthquakes by working with an API to generate a map that displays the past Earthquakes around the world in the last 24 hours.
 
 ## Campus Involvement
 
-I                                
+I am an honorary recipient of Cornell University's [Tradition Fellow](https://commitment.cornell.edu/tradition) scholarship due to my participation as an active volunteer of the Ithaca community. 
+
+I serve as the Resident Advisor (RA) at the Latino Living Center dorm on North Campus. My main duties include overseeing the welfare of my dorm's community and promoting a sense of culture by organizing activities such as cultural events, social gatherings, and academic enhancement workshops.
+
+Lastly, I am an active brother in Cornell's chapter of Alpha Phi Omega, where I participate in social and volunteering events that aid the metro Ithaca area.
 
 ### Contact
 
