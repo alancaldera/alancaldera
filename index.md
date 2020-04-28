@@ -14,7 +14,7 @@ On my own account, I enjoy working with data using Python, R, and SQL to create 
 
 ## Campus Involvement
 
-I am an honorary recipient of Cornell University's [Tradition Fellow](https://commitment.cornell.edu/tradition) scholarship due to my participation as an active volunteer of the Ithaca community. 
+I was an honorary recipient of Cornell University's [Tradition Fellow](https://commitment.cornell.edu/tradition) scholarship due to my participation as an active volunteer of the Ithaca community. 
 
 I serve as the Resident Advisor (RA) at the Latino Living Center dorm on North Campus. My main duties include overseeing the welfare of my dorm's community and promoting a sense of culture by organizing activities such as cultural events, social gatherings, and academic enhancement workshops.
 
