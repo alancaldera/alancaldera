@@ -1,10 +1,7 @@
 ## Welcome to GitHub Pages
 
-<img src="me_2.jpg" width=300>
+![test image size](me_2.jpg){:height="30%" width="30%"}
 
-![test image size](me_2.jpg){:class="img-responsive"}
-![test image size](me_2.jpg){:height="50%" width="50%"}
-![test image size](me_2.jpg){:height="100px" width="100px"}
 
 
 Format: ![Alt Text](url)
