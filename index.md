@@ -2,9 +2,9 @@
 
 <img src="me_2.jpg" width=300>
 
-![](https://raw.githubusercontent.com/alancaldera/alancaldera/master/me_2.jpg | width = 200)
-
-![test image size](me_2.jpg){:height="100px" width="100px"}
+![test image size](me_2.jpg){:class="img-responsive"}
+![test image size](me_2.jpg){:height="50%" width="50%"}
+![test image size](me_2.jpg){:height="700px" width="400px"}
 
 
 Format: ![Alt Text](url)
