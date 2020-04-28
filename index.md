@@ -1,10 +1,10 @@
 ## About Me
 
-![test image size](me_2.jpg){:height="40%" width="40%"}
+<img align="left" width="40%" height="40%" src="me_2.jpg">
 
 This is text,
 '''
-Test test
+Test test la la
 '''
 
 ## Next
