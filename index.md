@@ -1,6 +1,6 @@
 ## About Me
 
-<img align="left" width="40%" height="40%" src="me_2.jpg"> 
+<img align="left" width="40%" height="40%" margin=50px src="me_2.jpg"> 
 
 ### **Welcome**
 
