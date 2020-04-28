@@ -2,7 +2,7 @@
 
 <img align="left" width="40%" height="40%" src="me_2.jpg"> 
 
-<img style="padding-top: 50px; padding-right: 50px; padding-bottom: 50px; padding-left: 50px"> </img>
+<img style="padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px">
 
 ### **Welcome**
 
