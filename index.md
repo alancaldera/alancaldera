@@ -1,6 +1,7 @@
 ## About Me
 
 <img align="left" width="40%" height="40%" src="me_2.jpg">
+<img style="float: left; padding-right: 50px;"> 
 
 ### **Welcome**
 
@@ -48,5 +49,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Feel free to reach out with any questions you have
-[@arc296@cornell.edu](mailto:arc296@cornell.edu)
+Feel free to reach out with any questions you have at
+[arc296@cornell.edu](mailto:arc296@cornell.edu)
