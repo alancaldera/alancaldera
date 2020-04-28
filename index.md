@@ -1,12 +1,10 @@
 ## About Me
 
-<img align="left" width="40%" height="40%" src="me_2.jpg" style="margin-right: 20px"/>
+<img align="left" width="40%" height="40%" src="me_2.jpg" style="margin-right: 20px; margin-bottom: 10px "/>
 
 #### _Welcome! Hola! Bonjour! こんにちは!_
 
 I am a rising junior Computer Science major at Cornell University pursuing minors in Operations Research and Business. On campus, I serve as the Community Outreach Chair at [SHPE](https://www.shpe.cornell.edu/index.html) and am the President Elect for the upcoming 2020 - 2021 academic year. I am an active Fabrication team member of Cornell University's [Steel Bridge](https://steelbridge.engineering.cornell.edu/) project team, where I use machining tools to fabricate different steel components of our bridge for our yearly competiton.
-
-<br>
 
 ## Experience
 
