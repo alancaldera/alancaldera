@@ -8,7 +8,7 @@ I am a rising junior Computer Science major at Cornell University pursuing minor
 
 ## Experience
 
-Last summer, I interned at [Technical Associates](https://www.technicalassociates.com/) as an engineering quality assurance intern. I was tasked with analyzing complex piping systems throughout our client's manufacturing plants and documenting the layout using P&ID (Piping and Instrumentation Diagrams) format within AutoCAD.
+Last summer, I interned at [Technical Associates](https://www.technicalassociates.com/) as an Engineering Quality Assurance Intern. I was tasked with analyzing complex piping systems throughout our client's manufacturing plants and documenting the layout using P&ID (Piping and Instrumentation Diagrams) format within AutoCAD.
 
 ## Campus Involvement
 
@@ -43,10 +43,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alancaldera/alancaldera/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
