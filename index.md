@@ -14,37 +14,7 @@ Last summer, I interned at [Technical Associates](https://www.technicalassociate
 
 I                                
 
-Format: ![Alt Text](url)
-
-You can use the [editor on GitHub](https://github.com/alancaldera/alancaldera/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Contact
 
 Feel free to reach out with any questions you have at
-[arc296@cornell.edu](mailto:arc296@cornell.edu) or connect with me on [LinkedIn](www.linkedin.com/in/alancaldera2022)
+[arc296@cornell.edu](mailto:arc296@cornell.edu) or connect with me on [LinkedIn](www.linkedin.com/in/alancaldera2022).
