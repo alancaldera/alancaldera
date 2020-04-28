@@ -5,3 +5,6 @@ description: Personal Website
 theme: jekyll-theme-slate
 
 locale: en_US
+
+logo:
+  linkedin: alancaldera2020
